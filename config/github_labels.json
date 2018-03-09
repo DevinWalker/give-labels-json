@@ -1,0 +1,26 @@
+[
+  {
+    "name": "urgent",
+    "color": "ED4337"
+  },
+  {
+    "name": "high-priority",
+    "color": "FF7E47"
+  },
+  {
+    "name": "needs-feedback",
+    "color": "D9E9FF"
+  },
+  {
+    "name": "needs-design-feedback",
+    "color": "D9E9FF"
+  },
+  {
+    "name": "needs-dev-feedback",
+    "color": "D9E9FF"
+  },
+  {
+    "name": "needs-docs",
+    "color": "D9E9FF"
+  }
+]
