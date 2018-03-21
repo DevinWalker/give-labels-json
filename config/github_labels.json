@@ -22,5 +22,21 @@
   {
     "name": "needs-docs",
     "color": "D9E9FF"
+  },
+  {
+    "name": "1-reported",
+    "color": "f9ef95"
+  },
+  {
+    "name": "3-reported",
+    "color": "f9ef95"
+  },
+  {
+    "name": "5-reported",
+    "color": "f9ef95"
+  },
+  {
+    "name": "10-reported",
+    "color": "f9ef95"
   }
 ]
