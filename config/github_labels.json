@@ -1,9 +1,5 @@
 [
   {
-    "name": "urgent",
-    "color": "ED4337"
-  },
-  {
     "name": "high-priority",
     "color": "FF7E47"
   },
@@ -12,7 +8,7 @@
     "color": "D9E9FF"
   },
   {
-    "name": "needs-design-feedback",
+    "name": "needs-confirmation",
     "color": "D9E9FF"
   },
   {
@@ -20,23 +16,19 @@
     "color": "D9E9FF"
   },
   {
+    "name": "needs-design-feedback",
+    "color": "D9E9FF"
+  },
+  {
     "name": "needs-docs",
     "color": "D9E9FF"
   },
   {
-    "name": "1-reported",
-    "color": "f9ef95"
+    "name": "regression",
+    "color": "fcf04e"
   },
   {
-    "name": "3-reported",
-    "color": "f9ef95"
-  },
-  {
-    "name": "5-reported",
-    "color": "f9ef95"
-  },
-  {
-    "name": "10-reported",
-    "color": "f9ef95"
+    "name": "urgent",
+    "color": "ED4337"
   }
 ]
